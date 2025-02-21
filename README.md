@@ -14,6 +14,7 @@ You can use the following bibtex code.
     pages     = {2462-2471}
 }
 ```
+Note: The first author of this paper, Joonhyeok Jang, changed the name to Sehui Jang. (February 21th, 2025)
 
 
 # Retail-71 dataset for Domain Adaptation
